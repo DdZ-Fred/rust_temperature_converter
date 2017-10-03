@@ -1,0 +1,6 @@
+[package]
+name = "rust_temperature_converter"
+version = "0.1.0"
+authors = ["Frederic Rey <Frederic.Rey.Pro@gmail.com>"]
+
+[dependencies]
